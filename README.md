@@ -2,7 +2,7 @@
 
 **Computer Engineering Student | Aspiring Backend Engineer**
 
-I'm a computer engineering student focused on backend development — building REST APIs, working with databases, and learning how real systems are designed, tested, and deployed. Currently committing code daily and documenting the journey publicly.
+I'm a computer engineering student focused on backend development, building REST APIs, working with databases, and learning how real systems are designed, tested, and deployed. Currently committing code daily and documenting the journey publicly.
 
 ---
 
